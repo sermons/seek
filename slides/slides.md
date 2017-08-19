@@ -92,6 +92,77 @@ he gently leads those that have young.
 1. **Behold**, Your God! <%= bible('is40.9-11', '(v9-11)') %>
 
 ---
+“In the wilderness prepare <br/>
+the way for the Lord;
+
+make straight in the desert <br/>
+a highway for our God.
+
+[Isaiah 40:3 (NIV)](# "ref")
+
+>>>
++ 3 *straight highway*: herald of King
++ 4 *rough* made *level*:
+  + humbles + exalts
++ 5 *all people* (flesh) *will see*
+  + God is Judge of all, not just Chrstns
++ Mk1:1-8 John
+  + beginning of gospel
+  + repentance for forgiveness
+  + baptism
+  + after me comes
+
+---
+<!-- .slide: data-background="white" -->
+# Have I **repented**?
+# Do I call **others** to repent?
+
+---
+## outline 2
+
+>>>
++ 6 *faithfulness*: chesed, covenant love
+  + e.g., Metrotown elevator
++ 7 *breath* (Spirit) *of the Lord blows*
+  + (2Th2:8 overthrow lawless one)
+  + (2Pe3:10-12 elements burned up)
++ 8 *word of our God endures*
+  + 1Pet 1:22-25 unhypocritical love
+
+---
+<!-- .slide: data-background="white" -->
+# Does my love **fade** like a flower,
+# or **endure**, deep, from God's **Word**?
+
+>>>
++ **enduring**, un-hypocritical, deep,
++ born through **God's Word**?
+
+---
+## outline 3
+
+>>>
++ 9 *bring good news*: from battle (2Sa18)
+  + Ps captive captivity
+  + (52:7-8 lovely feet, watchmen)
+  + *do not be afraid*:
+  + *behold*: hinneh, voila, tada
++ 10 arm: *reward* + *recompense*
+  + (62:10-12)
++ 11 arm: tender
+  + *tend* (to pasture) + *gently lead*
+  + *gather* + *carry*
+  + Ps23:1-3
+
+---
+<!-- .slide: data-background="white" -->
+# Do I believe the gospel is **good news**?
+
+>>>
++ if so, then what am I **afraid** of?
+
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
 You who bring good news to Zion, <br/>
 go up on a high mountain. <br/>
 You who bring good news to Jerusalem, <br/>
@@ -103,3 +174,5 @@ say to the towns of Judah, <br/>
 
 [Isaiah 40:9 (NIV)](# "ref")
 
+---
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
