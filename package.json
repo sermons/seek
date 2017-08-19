@@ -39,6 +39,30 @@
         "city": "Vancouver",
         "date": "2016-06-05",
         "duration": 0
+      },
+      {
+        "venue": "Evangelical Chinese Bible Church",
+        "city": "Surrey",
+        "date": "2010-04-18",
+        "duration": 0
+      },
+      {
+        "venue": "North Shore Bethel MB Church",
+        "city": "North Vancouver",
+        "date": "2008-12-07",
+        "duration": 0
+      },
+      {
+        "venue": "Zion Chinese Reformed Church",
+        "city": "Abbotsford",
+        "date": "2008-12-07",
+        "duration": 0
+      },
+      {
+        "venue": "Chinese Mennonnite Church",
+        "city": "Vancouver",
+        "date": "2008-11-30",
+        "duration": 0
       }
     ],
     "slides": [
