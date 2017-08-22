@@ -108,23 +108,23 @@ a highway for our **God**.
 >>>
 + 3 *straight highway*: herald of King
 + John the Baptist (Mk1:1-8)
-  + repentance for forgiveness
-  + baptism
-  + after me comes
 
 ---
-<!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
-Every **valley** shall be raised up, <br/>
-every **mountain** and hill made low;
+**John** the Baptist appeared in the wilderness, <br/>
+preaching a baptism of **repentance** <br/>
+for the **forgiveness** of sins.
 
-the **rough** ground shall become level, <br/>
-the **rugged** places a plain.
+[...] [5](# "ref")
+**Confessing** their sins, <br/>
+they were **baptized** by him in the Jordan River.
 
-[Isaiah 40:4 (NIV)](# "ref")
+[Mark 1:4-5 (NIV)](# "ref")
 
 >>>
-+ 4 *rough* made *level*:
-  + humbles + exalts
++ **repent** &rArr; confess
++ forgiveness &rArr; **baptised**
++ **after** me comes:
+  + point to **Jesus'** authority
 
 ---
 <!-- .slide: <%= bg("unsplash-78A265wPiO4-sunlit_valley.jpg") %> -->
@@ -152,8 +152,8 @@ in heaven and on earth and under the earth,
 
 [11](# "ref")
 and **every tongue** acknowledge  <br/>
-that **Jesus Christ is Lord**, <br/>
-to the glory of God the Father.
+that **Jesus Christ** is **Lord**, <br/>
+to the glory of **God** the Father.
 
 [Philippians 2:9-11 (NIV)](# "ref")
 
