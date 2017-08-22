@@ -8,6 +8,10 @@
 
 [###](#/outline "secret")
 
+>>>
++ 1 TURN: **repent**
++ 2 SEEK: **encounter** living God
+
 ---
 [3](# "ref")
 A voice of one calling:
@@ -103,6 +107,10 @@ a highway for our **God**.
 
 >>>
 + 3 *straight highway*: herald of King
++ John the Baptist (Mk1:1-8)
+  + repentance for forgiveness
+  + baptism
+  + after me comes
 
 ---
 <!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
@@ -129,12 +137,28 @@ For the mouth of the Lord has spoken.”
 
 >>>
 + 5 *all people* (flesh) *will see*
-  + God is Judge of all, not just Chrstns
-+ Mk1:1-8 John
-  + beginning of gospel
-  + repentance for forgiveness
-  + baptism
-  + after me comes
++ God is Judge of all, not just Chrstns
+
+---
+<!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
+Therefore God **exalted** him to the highest place <br/>
+and gave him the **name** that is above every name,
+
+[10](# "ref")
+that at the name of Jesus **every knee** should bow, <br/>
+in heaven and on earth and under the earth,
+
+[11](# "ref")
+and **every tongue** acknowledge  <br/>
+that **Jesus Christ is Lord**, <br/>
+to the glory of God the Father.
+
+[Philippians 2:9-11 (NIV)](# "ref")
+
+>>>
++ **humbled** self, **obedient** to death
++ **every** knee will bow:
+  + either in **joy** or **fear**
 
 ---
 <!-- .slide: data-background="white" -->
@@ -181,8 +205,20 @@ but the **word** of our God endures forever.”
 [Isaiah 40:8 (NIV)](# "ref")
 
 >>>
-+ 8 *word of our God endures*
-  + 1Pet 1:22-25 unhypocritical love
++ quoted in 1Pet:
+
+---
+Now that you have **purified** yourselves  <br/>
+by **obeying** the truth so that  <br/>
+you have **sincere** love for each other,
+
+love one another **deeply**, from the heart.
+
+[1 Peter 1:22 (NIV)](# "ref")
+
+>>>
++ **born** again though **Word**
++ **unhypocritical** love
 
 ---
 <!-- .slide: data-background="white" -->
