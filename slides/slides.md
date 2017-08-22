@@ -92,6 +92,7 @@ he **gently leads** those that have young.
 1. **Behold**, Your God! <%= bible('is40.9-11', '(v9-11)') %>
 
 ---
+<!-- .slide: <%= bg("unsplash-NEgEJmN3JZo-boardwalk_grass.jpg") %> -->
 “In the wilderness **prepare** <br/>
 the way for the **Lord**;
 
@@ -104,6 +105,7 @@ a highway for our **God**.
 + 3 *straight highway*: herald of King
 
 ---
+<!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
 Every **valley** shall be raised up, <br/>
 every **mountain** and hill made low;
 
@@ -117,6 +119,7 @@ the **rugged** places a plain.
   + humbles + exalts
 
 ---
+<!-- .slide: <%= bg("unsplash-78A265wPiO4-sunlit_valley.jpg") %> -->
 And the **glory** of the Lord will be revealed, <br/>
 and **all** people will see it together.
 
@@ -146,6 +149,7 @@ For the mouth of the Lord has spoken.”
 1. Behold, Your God! <%= bible('is40.9-11', '(v9-11)') %>
 
 ---
+<!-- .slide: <%= bg("unsplash-_jN5_9zu8DM-sunflower.jpg") %> -->
 “All **people** are like grass, <br/>
 and all their **faithfulness** <br/>
 is like the flowers of the field.
@@ -157,6 +161,7 @@ is like the flowers of the field.
   + e.g., Metrotown elevator
 
 ---
+<!-- .slide: <%= bg("unsplash-YuVzPOBuuf0-grain_broken.jpg") %> -->
 The grass **withers** and the flowers **fall**, <br/>
 because the **breath** of the Lord blows on them. <br/>
 Surely the people are grass.
@@ -169,6 +174,7 @@ Surely the people are grass.
   + (2Pe3:10-12 elements burned up)
 
 ---
+<!-- .slide: <%= bg("unsplash-c333d6YEhi0-bible.jpg") %> -->
 The **grass** withers and the **flowers** fall, <br/>
 but the **word** of our God endures forever.”
 
@@ -195,6 +201,7 @@ but the **word** of our God endures forever.”
 1. **Behold, Your God!** <%= bible('is40.9-11', '(v9-11)') %>
 
 ---
+<!-- .slide: <%= bg("unsplash-4K2lIP0zc_k-child_laugh_bible.jpg") %> -->
 You who bring **good news** to Jerusalem, <br/>
 **lift up** your voice with a shout,
 
@@ -213,6 +220,7 @@ say to the towns of Judah,
   + *behold*: hinneh, voila, tada
 
 ---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 See, the Sovereign Lord comes with **power**, <br/>
 and he rules with a **mighty** arm.
 
@@ -226,6 +234,7 @@ and his **recompense** accompanies him.
   + (62:10-12)
 
 ---
+<!-- .slide: <%= bg("unsplash-aJvSX36kweg-lamb.jpg") %> -->
 He tends his flock like a **shepherd**: <br/>
 He **gathers** the lambs in his arms <br/>
 and **carries** them close to his heart; <br/>
