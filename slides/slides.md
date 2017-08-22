@@ -110,6 +110,7 @@ a highway for our **God**.
 + John the Baptist (Mk1:1-8)
 
 ---
+<!-- .slide: <%= bg("unsplash-3sR_0NhWMEI-water_ocean_calm.jpg") %> -->
 **John** the Baptist appeared in the wilderness, <br/>
 preaching a baptism of **repentance** <br/>
 for the **forgiveness** of sins.
@@ -138,14 +139,13 @@ For the mouth of the Lord has spoken.”
 >>>
 + 5 *all people* (flesh) *will see*
 + God is Judge of all, not just Chrstns
++ not **choice** of religions
 
 ---
 <!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
-Therefore God **exalted** him to the highest place <br/>
-and gave him the **name** <br/>
-that is above every name,
+Therefore God **exalted** him to the highest place
 
-[10](# "ref")
+[...] [10](# "ref")
 that at the name of **Jesus** <br/>
 **every knee** should bow, <br/>
 in heaven and on earth and under the earth,
@@ -164,8 +164,12 @@ to the glory of **God** the Father.
 
 ---
 <!-- .slide: data-background="white" -->
-# Have I **repented**?
-# Do I call **others** to repent?
+# Am I **prepared** to see Jesus?
+# Do I prepare **others**?
+
+>>>
++ e.g., prepared for **marriage**:
+  + no dating &le;22, but married &le;25
 
 ---
 <!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
@@ -184,7 +188,7 @@ is like the flowers of the field.
 
 >>>
 + 6 *faithfulness*: chesed, covenant love
-  + e.g., Metrotown elevator
++ our **love** runs out quickly
 
 ---
 <!-- .slide: <%= bg("unsplash-YuVzPOBuuf0-grain_broken.jpg") %> -->
