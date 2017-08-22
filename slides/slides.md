@@ -139,7 +139,11 @@ For the mouth of the Lord has spoken.”
 # Do I call **others** to repent?
 
 ---
-## outline 2
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+## Seek <%= bible('(Is40)') %>
+1. Prepare the Way <%= bible('is40.3-5', '(v3-5)') %>
+1. **We Are But Grass** <%= bible('is40.6-8', '(v6-8)') %>
+1. Behold, Your God! <%= bible('is40.9-11', '(v9-11)') %>
 
 ---
 “All **people** are like grass, <br/>
@@ -184,7 +188,11 @@ but the **word** of our God endures forever.”
 + born through **God's Word**?
 
 ---
-## outline 3
+<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+## Seek <%= bible('(Is40)') %>
+1. Prepare the Way <%= bible('is40.3-5', '(v3-5)') %>
+1. We Are But Grass <%= bible('is40.6-8', '(v6-8)') %>
+1. **Behold, Your God!** <%= bible('is40.9-11', '(v9-11)') %>
 
 ---
 You who bring **good news** to Jerusalem, <br/>
