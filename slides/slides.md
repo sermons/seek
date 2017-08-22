@@ -214,6 +214,7 @@ but the **word** of our God endures forever.”
 + quoted in 1Pet:
 
 ---
+<!-- .slide: <%= bg("unsplash-2PODhmrvLik-heart_sunset.jpg") %> -->
 Now that you have **purified** yourselves  <br/>
 by **obeying** the truth so that  <br/>
 you have **sincere** love for each other,
