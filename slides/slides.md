@@ -142,10 +142,12 @@ For the mouth of the Lord has spoken.”
 ---
 <!-- .slide: <%= bg("unsplash-y4v96Sy2ne4-sunset_hills.jpg") %> -->
 Therefore God **exalted** him to the highest place <br/>
-and gave him the **name** that is above every name,
+and gave him the **name** <br/>
+that is above every name,
 
 [10](# "ref")
-that at the name of Jesus **every knee** should bow, <br/>
+that at the name of **Jesus** <br/>
+**every knee** should bow, <br/>
 in heaven and on earth and under the earth,
 
 [11](# "ref")
