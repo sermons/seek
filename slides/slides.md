@@ -4,7 +4,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# Opening **Question**
+# What will it be like to **see** God?
 
 [###](#/outline "secret")
 
