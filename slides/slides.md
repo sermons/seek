@@ -1,4 +1,4 @@
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 # SEEK
 ## Isaiah 40:3-11
 
@@ -85,7 +85,7 @@ he **gently leads** those that have young.
 [Isaiah 40:10-11 (NIV) (p.6/6)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> id="outline" -->
 ## Seek <%= bible('(Is40)') %>
 1. **Prepare** the Way <%= bible('is40.3-5', '(v3-5)') %>
 1. We Are But **Grass** <%= bible('is40.6-8', '(v6-8)') %>
@@ -139,7 +139,7 @@ For the mouth of the Lord has spoken.”
 # Do I call **others** to repent?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 ## Seek <%= bible('(Is40)') %>
 1. Prepare the Way <%= bible('is40.3-5', '(v3-5)') %>
 1. **We Are But Grass** <%= bible('is40.6-8', '(v6-8)') %>
@@ -188,7 +188,7 @@ but the **word** of our God endures forever.”
 + born through **God's Word**?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 ## Seek <%= bible('(Is40)') %>
 1. Prepare the Way <%= bible('is40.3-5', '(v3-5)') %>
 1. We Are But Grass <%= bible('is40.6-8', '(v6-8)') %>
@@ -247,7 +247,7 @@ he **gently leads** those that have young.
 + if so, then what am I **afraid** of?
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> -->
 You who bring **good news** to Jerusalem, <br/>
 **lift up** your voice with a shout,
 
@@ -259,4 +259,4 @@ say to the towns of Judah,
 [Isaiah 40:9 (NIV)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-Jztmx9yqjBw-stars.jpg") %> class="empty" -->
+<!-- .slide: <%= bg("unsplash-H3giJcTw__w-iceland_sunbeam.jpg") %> class="empty" -->
