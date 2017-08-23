@@ -229,8 +229,8 @@ love one another **deeply**, from the heart.
 
 ---
 <!-- .slide: data-background="white" -->
-# Does my love **fade** like a flower,
-# or **endure**, deep, from God's **Word**?
+# Is my love **fading** like a flower,
+# or **enduring**, deep, from God's **Word**?
 
 >>>
 + **enduring**, un-hypocritical, deep,
